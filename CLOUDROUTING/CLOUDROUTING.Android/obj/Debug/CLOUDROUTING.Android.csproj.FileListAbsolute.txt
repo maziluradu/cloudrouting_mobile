@@ -1,0 +1,210 @@
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.Android.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.Android.pdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\FormsViewGroup.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\FormsViewGroup.pdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.pdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.MainPage.xaml.g.cs
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.App.xaml.g.cs
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Android.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Android.pdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\icon.png
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\layout\tabbar.xml
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\layout\toolbar.xml
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\values\styles.xml
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\R.cs.flag
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\uploadflags.txt
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Newtonsoft.Json.dll
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\FormsViewGroup.dll.mdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Newtonsoft.Json.xml
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.MenuPage.xaml.g.cs
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\menubg.jpg
+c:\users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crmenubg.jpg
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Android.csprojResolveAssemblyReference.cache
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\profilebackground.jpg
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crusericon.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crtrips.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crorders.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crlogout.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\next.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\avatartemplate.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.DriverPage.xaml.g.cs
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.TripsPage.xaml.g.cs
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\tripsbg.jpg
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\driverbackground.jpg
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\drivermdpi.jpg
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\tripsmdpi.jpg
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.OrdersPage.xaml.g.cs
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.Android.dll.mdb
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\CLOUDROUTING.Android.dll.mdb
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\trigger.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\login.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crlogo.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\optimized.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\mapmarker.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crpagelogoblue.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crpagelogowhite.png
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.CLOUDROUTING.apk
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.CLOUDROUTING-Signed.apk
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\xhefa\documents\visual studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\bin\CLOUDROUTING.CLOUDROUTING.apk
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+C:\Users\xhefa\Documents\Visual Studio 2017\Projects\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.MainPage.xaml.g.cs
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.App.xaml.g.cs
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.MenuPage.xaml.g.cs
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.DriverPage.xaml.g.cs
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.TripsPage.xaml.g.cs
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.OrdersPage.xaml.g.cs
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.Android.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.Android.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.CLOUDROUTING.apk
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.CLOUDROUTING-Signed.apk
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\FormsViewGroup.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Newtonsoft.Json.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Annotations.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Compat.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Fragment.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Transition.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Maps.Android.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Maps.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\FormsViewGroup.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\FormsViewGroup.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Newtonsoft.Json.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Maps.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Android.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Android.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\bin\CLOUDROUTING.CLOUDROUTING.apk
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\icon.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\layout\tabbar.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\layout\toolbar.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\values\styles.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\menubg.jpg
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crmenubg.jpg
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\profilebackground.jpg
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crusericon.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crtrips.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crorders.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crlogout.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\next.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\avatartemplate.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\tripsbg.jpg
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\driverbackground.jpg
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\drivermdpi.jpg
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\tripsmdpi.jpg
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\trigger.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\login.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crlogo.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\optimized.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\mapmarker.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crpagelogoblue.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\crpagelogowhite.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\R.cs.flag
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\uploadflags.txt
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.GoogleMaps.Android.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.Forms.GoogleMaps.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Droid.TripsInfoPage.xaml.g.cs
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.CurrentActivity.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Geolocator.Abstractions.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Geolocator.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Permissions.Abstractions.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Permissions.dll
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.CurrentActivity.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Geolocator.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Geolocator.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Permissions.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Permissions.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Permissions.Abstractions.pdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Permissions.Abstractions.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Geolocator.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\Plugin.Permissions.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\layout\mapinfowindow.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\layout\xamarinmapinfowindow.xml
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\tripspin.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\CLOUDROUTING.Android.csprojResolveAssemblyReference.cache
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\bin\Debug\CLOUDROUTING.Android.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\CLOUDROUTING.Android.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Plugin.Geolocator.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Plugin.Permissions.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\miwlogo.png
+E:\CLOUDROUTING\CLOUDROUTING\CLOUDROUTING.Android\obj\Debug\res\drawable\tripspincomplete.png
